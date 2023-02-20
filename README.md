@@ -24,6 +24,9 @@ It consists of two services: _**FrontEnd & BackEnd**_
 
 Run `yarn install`
 
+#### Before running
+> Create file `.env` in the main directory and configure environmental variables
+
 ### Running services
 
 Run `yarn nx serve [service-name]` 
